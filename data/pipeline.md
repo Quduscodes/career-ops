@@ -1,0 +1,60 @@
+# Pipeline — Pending Offers
+
+## Pendientes
+
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7206201 | Headspace | Software Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/roadie/jobs/8500982002 | Roadie | Mobile Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/canonicaljobs/jobs/7131511 | Canonical | Web Frontend Engineer - JS, CSS, React, Flutter
+- [ ] https://job-boards.greenhouse.io/contractorspool/jobs/7857999 | ArcTouch | Senior Flutter Developer [Contractor - Talent Pool]
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7815727003 | Tide | Senior Software Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6292647003 | Tide | Senior Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6206214004 | Grafana Labs | Senior Mobile Engineer - Instrumentation SDK (iOS)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5211861 | Canonical | Software Engineering Director
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8155890 | Talkdesk | Senior Software Engineer I - Mobile Developer
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7777032003 | OKX | Senior Staff Software Engineer, Mobile Infrastructure
+- [ ] https://jobs.ashbyhq.com/yadda/c7d1a5f8-f65e-4747-bc3d-db827de866e1 | Yadda | Flutter Developer
+- [ ] https://jobs.ashbyhq.com/truelogic/8962dd54-de7e-4527-97bc-cecc6d5a615b | Truelogic | Senior Mobile Flutter Engineer
+- [ ] https://jobs.ashbyhq.com/flutterflow/a45343e4-ba41-4a6d-817c-897cc9ecfdb5 | FlutterFlow | Software Engineer - Future Openings
+- [ ] https://jobs.ashbyhq.com/labhouse/65c332e0-33ae-443d-be5e-ba1516f0370d | LABHOUSE | Flutter Developer
+- [ ] https://jobs.ashbyhq.com/labhouse/9c7d5cea-2f3c-46ee-b289-a2dbad8f3a8d | LABHOUSE | Lead Flutter Developer
+- [ ] https://jobs.ashbyhq.com/hudu/30022059-d2c1-4427-8cd0-17cd628140c8 | Hudu | Flutter Engineer
+- [ ] https://jobs.ashbyhq.com/everis/11609271-e3db-4894-a003-2f3cbd067878 | Everis | Full-Stack Software Engineer, Growth
+- [ ] https://jobs.lever.co/jobgether/11deaec7-db5f-41bb-ada0-40f4f354f400 | Jobgether | Sr. Mobile Developer - REMOTE
+- [ ] https://jobs.lever.co/jobgether/5e16fc1d-03e7-4a73-831e-bc95eede5115 | Jobgether | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/xagroup/9d5cde69-cc9b-4e1e-a5d4-b1593b2ec427 | Xpress Automation | Flutter Developer
+- [ ] https://jobs.lever.co/idt/a509ca9e-1af6-4f26-bb34-5c258bd69665 | IDT | Senior Flutter Software Engineer (Anti-Fraud team)
+- [ ] https://jobs.lever.co/jobgether/74771a03-4953-4081-b47e-cd4e27bdb16d | Jobgether | Senior Mobile Developer (Flutter)
+- [ ] https://jobs.lever.co/scale3c/91494656-d57c-4cf3-a173-c427cb54cde2 | ScaleTech | Senior Flutter Developer (Full Remote)
+- [ ] https://jobs.lever.co/commencis/7ae363d1-db06-4ed1-bc2b-2b23ffc30412 | Commencis | Flutter Engineer
+- [ ] https://jobs.lever.co/remedyproductstudio/68a8aa3c-3e62-4d6c-88cd-54b278a92fbd | Remedy Product Studio | Mobile Engineer (Flutter)
+- [ ] https://job-boards.greenhouse.io/inthepocket/jobs/7139507 | In The Pocket | Mobile Engineer (Flutter)
+- [ ] https://job-boards.greenhouse.io/eltropyinc/jobs/4288310009 | Eltropy | Senior Mobile Developer (Remote)
+- [ ] https://job-boards.greenhouse.io/springhealth66/jobs/4727964005 | Spring Health | Staff Software Engineer I, Mobile
+- [ ] https://job-boards.greenhouse.io/twinhealth/jobs/5669318004 | Twin Health | Senior Software Engineer, Mobile
+- [ ] https://job-boards.greenhouse.io/assetwatch/jobs/4716371005 | AssetWatch | Senior Mobile Engineer
+- [ ] https://jobs.ashbyhq.com/glomo/39498f1a-a5e6-49d3-92e4-5334e462f8fb | Glomopay | Mobile Engineer - Frontend
+- [ ] https://jobs.ashbyhq.com/sekai/a254fef6-ad7a-4cf4-853d-79b207259f18 | Sekai | Mobile Engineer - React Native
+- [ ] https://jobs.ashbyhq.com/g2i/93a1bf14-7d13-47f5-81f5-52e0dbbc7bfe | G2i | Founding Mobile Engineer (React Native / iOS)
+- [ ] https://builtin.com/job/staff-engineer-mobile-flutter/3427809 | Unknown | Staff Engineer, Mobile Flutter
+- [ ] https://job-boards.greenhouse.io/awin/jobs/6649458003 | Awin | Flutter Engineer
+- [ ] https://career.habr.com/vacancies/1000065213 | Unknown | Dart / Flutter Engineer (remote)
+- [ ] https://remote4africa.com/jobs/mobile-engineer-flutter-remote-nigeria-based | Unknown | Remote Mobile Engineer (Flutter) - Nigeria-Based
+- [ ] https://remote4africa.com/jobs/senior-flutter-mobile-engineer | Unknown | Senior Flutter Mobile Engineer (Hybrid)
+- [ ] https://wellfound.com/jobs/1743986-senior-mobile-flutter-engineer | Blankfactor | Senior Mobile (Flutter) Engineer
+- [ ] https://wellfound.com/jobs/1113513-flutter-mobile-engineer-to-transform-healthcare-globally | Healum | Flutter Mobile Engineer
+- [ ] https://wellfound.com/jobs/4040807-mobile-developer-flutter | Phictly | Mobile App Developer (Flutter)
+- [ ] https://wellfound.com/jobs/2042818-flutter-developer | Lepaya | Flutter Developer
+- [ ] https://startup.jobs/flutter-engineer-ii-us-very-good-ventures-3734935 | Very Good Ventures | Flutter Engineer II - U.S.
+- [ ] https://jobs.lever.co/wisecode/c47a83ef-879d-475f-8447-3b7abdf67cd1 | WISEcode | Senior Mobile Developer
+- [ ] https://jobs.lever.co/jobgether/d8e33eb8-9d94-4182-9d9b-223e9c44510b | Jobgether | Senior Mobile Flutter Engineer
+- [ ] https://jobs.lever.co/jobgether/a7bdd951-d68a-4de2-a449-a67c0a073a7a | Jobgether | Senior Flutter Developer (Cupid Media)
+- [ ] https://apply.workable.com/weekday-1/j/70A1E7EA17 | Weekday AI | Frontend Developer (Flutter)
+- [ ] https://apply.workable.com/innovationteam/j/8AD4C184DD | InnovationTeam | Flutter Mobile Developer
+- [ ] https://apply.workable.com/adree/j/089D2DAF05 | Adree | Flutter Developer
+- [ ] https://apply.workable.com/codeninjapk/j/5DDECC4D26 | CodeNinja | Full Stack Flutter Developer
+- [ ] https://apply.workable.com/pavago/j/877CE3D6C5 | Pavago | Mobile App Developer - iOS/Android
+- [ ] https://apply.workable.com/homey/j/D82662A081/ | Homey | Software Engineer - Mobile
+- [ ] https://apply.workable.com/xcellink/j/CBB6C84D4F/ | Xcellink | Flutter Developer
+- [ ] https://apply.workable.com/pavago/j/F12B5F0F66 | Pavago | Mobile App Developer
+- [ ] https://apply.workable.com/pulse-labs/j/294A11D694/ | Pulse Labs AI | Senior Mobile Software Engineer
+- [ ] https://apply.workable.com/freedomfinanceeu/j/110D0F0106 | Freedom24 | Senior Mobile App Engineer (Android)

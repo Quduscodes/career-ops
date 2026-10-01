@@ -1,0 +1,337 @@
+# Portal Scanner Configuration — Flutter/Mobile Developer
+# Customized for Qudus Fatungase, Flutter/Mobile Developer, Lagos Nigeria
+# Created: 2026-10-01
+
+title_filter:
+  positive:
+    # Flutter & Dart
+    - "Flutter"
+    - "Dart"
+    # Mobile Engineering
+    - "Mobile Developer"
+    - "Mobile Engineer"
+    - "Mobile Software Engineer"
+    - "Mobile App Developer"
+    - "Mobile App Engineer"
+    - "App Developer"
+    # Cross-platform
+    - "Cross-platform"
+    - "Cross Platform"
+    # Android / iOS (hybrid roles often need Flutter devs)
+    - "Android Developer"
+    - "Android Engineer"
+    - "iOS Developer"
+    - "iOS Engineer"
+    # React Native (adjacent, sometimes dual-listed)
+    - "React Native"
+    # Senior titles
+    - "Senior Mobile"
+    - "Lead Mobile"
+    - "Staff Mobile"
+    - "Principal Mobile"
+    # Remote-friendly general
+    - "Software Engineer"
+    - "Frontend Engineer"
+    - "Full Stack Mobile"
+  negative:
+    - "Intern"
+    - "Junior"
+    - "Data Scientist"
+    - "Machine Learning Engineer"
+    - "DevOps"
+    - "Backend"
+    - "SRE"
+    - "Site Reliability"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "COBOL"
+    - "PHP"
+    - "Ruby on Rails"
+    - "Salesforce"
+    - "SAP "
+    - "Oracle EBS"
+    - "Mainframe"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head of"
+
+# -- Search queries --
+search_queries:
+  # -- Flutter specific --
+  - name: Greenhouse — Flutter Developer
+    query: 'site:job-boards.greenhouse.io "Flutter" developer OR engineer remote'
+    enabled: true
+
+  - name: Ashby — Flutter Developer
+    query: 'site:jobs.ashbyhq.com "Flutter" developer OR engineer remote'
+    enabled: true
+
+  - name: Lever — Flutter Developer
+    query: 'site:jobs.lever.co "Flutter" developer OR engineer remote'
+    enabled: true
+
+  - name: Workable — Flutter Developer
+    query: 'site:apply.workable.com "Flutter" developer OR engineer remote'
+    enabled: true
+
+  # -- Mobile Engineering --
+  - name: Greenhouse — Mobile Engineer
+    query: 'site:job-boards.greenhouse.io "Mobile Engineer" OR "Mobile Developer" Flutter OR Dart remote'
+    enabled: true
+
+  - name: Ashby — Mobile Engineer
+    query: 'site:jobs.ashbyhq.com "Mobile Engineer" OR "Mobile Developer" Flutter OR Dart remote'
+    enabled: true
+
+  - name: Lever — Mobile Engineer
+    query: 'site:jobs.lever.co "Mobile Engineer" OR "Mobile Developer" Flutter OR Dart remote'
+    enabled: true
+
+  # -- Cross-platform (Flutter, React Native) --
+  - name: Cross-platform — All portals
+    query: '"Flutter" OR "React Native" "Mobile Engineer" OR "Mobile Developer" remote senior'
+    enabled: true
+
+  # -- African tech companies (Lagos/Nigeria/Africa focus) --
+  - name: African Tech — Flutter/Mobile
+    query: '"Flutter" OR "Mobile Developer" Nigeria OR Lagos OR Africa OR "remote Africa" engineer 2026'
+    enabled: true
+
+  - name: Wellfound — Flutter Mobile
+    query: 'site:wellfound.com "Flutter" OR "Mobile Engineer" remote'
+    enabled: true
+
+  # -- General Flutter market --
+  - name: Flutter Jobs — Global Remote
+    query: '"Flutter developer" OR "Flutter engineer" remote 2026 senior'
+    enabled: true
+
+  - name: Flutter Jobs — Indeed/LinkedIn
+    query: '"Flutter" "Mobile Engineer" OR "Mobile Developer" remote senior -intern'
+    enabled: true
+
+# -- Tracked companies --
+# Companies known to hire Flutter developers or remote mobile engineers.
+
+tracked_companies:
+
+  # -- Google (Flutter creator) --
+  - name: Google
+    careers_url: https://careers.google.com
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "Flutter" OR "Mobile" "Software Engineer"'
+    notes: "Flutter was built by Google. Strong mobile engineering org."
+    enabled: true
+
+  # -- African Fintech & Tech --
+
+  - name: Paystack
+    careers_url: https://paystack.com/careers
+    scan_method: websearch
+    scan_query: '"paystack" careers "mobile" OR "flutter" developer OR engineer'
+    notes: "Lagos NG. Stripe subsidiary. Leading African payments."
+    enabled: true
+
+  - name: Flutterwave
+    careers_url: https://flutterwave.com/us/careers
+    scan_method: websearch
+    scan_query: '"flutterwave" careers "mobile" OR "flutter" developer OR engineer'
+    notes: "Lagos/SF. African payments unicorn."
+    enabled: true
+
+  - name: Kuda Bank
+    careers_url: https://kuda.com/careers
+    scan_method: websearch
+    scan_query: '"kuda" careers "mobile" OR "flutter" developer OR engineer'
+    notes: "Lagos NG. Neobank for Africa, Flutter-first stack."
+    enabled: true
+
+  - name: Moniepoint
+    careers_url: https://moniepoint.com/careers
+    scan_method: websearch
+    scan_query: '"moniepoint" careers "mobile" OR "flutter" developer OR engineer'
+    notes: "Lagos NG. African fintech, B2B payments."
+    enabled: true
+
+  - name: PiggyVest
+    careers_url: https://piggyvest.com/careers
+    scan_method: websearch
+    scan_query: '"piggyvest" OR "pocketapp" careers "mobile" OR "flutter" developer'
+    notes: "Lagos NG. Savings app, 4M+ users."
+    enabled: true
+
+  - name: Cowrywise
+    careers_url: https://cowrywise.com/careers
+    scan_method: websearch
+    scan_query: '"cowrywise" careers "mobile" OR "flutter" developer'
+    notes: "Lagos NG. Investment & savings fintech."
+    enabled: true
+
+  - name: Carbon
+    careers_url: https://getcarbon.co/careers
+    scan_method: websearch
+    scan_query: '"carbon" OR "onefi" careers "mobile" OR "flutter" developer Lagos Nigeria'
+    notes: "Lagos NG. Digital lending platform."
+    enabled: true
+
+  - name: TeamApt (Monobank)
+    careers_url: https://teamapt.com/careers
+    scan_method: websearch
+    scan_query: '"teamapt" OR "monobank" careers "mobile" OR "flutter" developer'
+    notes: "Lagos NG. Banking infrastructure."
+    enabled: true
+
+  - name: Andela
+    careers_url: https://andela.com/talent/
+    scan_method: websearch
+    scan_query: '"andela" "flutter" OR "mobile developer" engineer'
+    notes: "Remote. African tech talent network, many remote placements."
+    enabled: true
+
+  - name: Jumia
+    careers_url: https://group.jumia.com/careers
+    scan_method: websearch
+    scan_query: '"jumia" careers "mobile" OR "flutter" developer OR engineer'
+    notes: "Pan-African e-commerce. Multiple countries."
+    enabled: true
+
+  - name: Interswitch
+    careers_url: https://interswitchgroup.com/careers
+    scan_method: websearch
+    scan_query: '"interswitch" careers "mobile" OR "flutter" developer engineer'
+    notes: "Lagos NG. Payments infrastructure, enterprise fintech."
+    enabled: true
+
+  # -- Global remote-friendly companies known for Flutter --
+
+  - name: Very Good Ventures
+    careers_url: https://verygood.ventures/careers
+    scan_method: websearch
+    scan_query: '"very good ventures" careers "flutter" developer engineer'
+    notes: "Remote. Premier Flutter agency, Google Flutter partner."
+    enabled: true
+
+  - name: Invertase
+    careers_url: https://invertase.io/careers
+    scan_method: websearch
+    scan_query: '"invertase" careers "flutter" developer'
+    notes: "Remote. Major Flutter open-source contributor (FlutterFire)."
+    enabled: true
+
+  - name: Superlist
+    careers_url: https://jobs.ashbyhq.com/superlist
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/superlist'
+    notes: "Remote/Berlin. Productivity app, Flutter-heavy."
+    enabled: true
+
+  - name: Linear
+    careers_url: https://linear.app/careers
+    scan_method: websearch
+    scan_query: '"linear" careers "mobile" OR "flutter" engineer'
+    notes: "Remote. Project management tool, growing mobile team."
+    enabled: true
+
+  # -- Greenhouse companies with mobile teams --
+
+  - name: Shopify
+    careers_url: https://job-boards.greenhouse.io/shopify
+    api: https://boards-api.greenhouse.io/v1/boards/shopify/jobs
+    notes: "Remote. E-commerce platform, large mobile eng team."
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin/Remote. Customer messaging, iOS/Android mobile app."
+    enabled: true
+
+  - name: Notion
+    careers_url: https://job-boards.greenhouse.io/notion
+    api: https://boards-api.greenhouse.io/v1/boards/notion/jobs
+    notes: "Remote/SF. Productivity app, mobile team."
+    enabled: true
+
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    api: https://boards-api.greenhouse.io/v1/boards/figma/jobs
+    notes: "Remote/SF. Design tool, mobile app."
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+    api: https://boards-api.greenhouse.io/v1/boards/stripe/jobs
+    notes: "Remote. Payments, mobile SDK and app team."
+    enabled: true
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "Remote. Web/app platform, mobile tooling."
+    enabled: true
+
+  - name: Canva
+    careers_url: https://job-boards.greenhouse.io/canva
+    api: https://boards-api.greenhouse.io/v1/boards/canva/jobs
+    notes: "Remote/Sydney. Design platform, Flutter-first mobile app."
+    enabled: true
+
+  - name: Duolingo
+    careers_url: https://job-boards.greenhouse.io/duolingo
+    api: https://boards-api.greenhouse.io/v1/boards/duolingo/jobs
+    notes: "Remote/Pittsburgh. Language learning, Flutter-based app."
+    enabled: true
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin/Remote. Neobank with Flutter mobile app."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin/London. Payments fintech, strong mobile team."
+    enabled: true
+
+  # -- Lever companies with mobile teams --
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Remote/Stockholm. Audio streaming, large mobile eng team."
+    enabled: true
+
+  - name: Squarespace
+    careers_url: https://jobs.lever.co/squarespace
+    notes: "Remote/NYC. Website builder, growing mobile team."
+    enabled: true
+
+  - name: Lyft
+    careers_url: https://job-boards.greenhouse.io/lyft
+    api: https://boards-api.greenhouse.io/v1/boards/lyft/jobs
+    notes: "Remote/SF. Ride-sharing, strong mobile engineering."
+    enabled: true
+
+  # -- Ashby companies --
+
+  - name: Linear
+    careers_url: https://jobs.ashbyhq.com/linear
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/linear "mobile" OR "flutter"'
+    notes: "Remote. Project management, mobile eng."
+    enabled: true
+
+  - name: Clerk
+    careers_url: https://jobs.ashbyhq.com/clerk
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/clerk "mobile" OR "flutter"'
+    notes: "Remote. Auth platform, mobile SDK."
+    enabled: true
