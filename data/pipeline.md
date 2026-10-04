@@ -58,3 +58,27 @@
 - [ ] https://apply.workable.com/pavago/j/F12B5F0F66 | Pavago | Mobile App Developer
 - [ ] https://apply.workable.com/pulse-labs/j/294A11D694/ | Pulse Labs AI | Senior Mobile Software Engineer
 - [ ] https://apply.workable.com/freedomfinanceeu/j/110D0F0106 | Freedom24 | Senior Mobile App Engineer (Android)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4978529101 | Valtech | Senior Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6613051003 | Tide | Senior Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/gr8tech/jobs/4963350101 | GR8_TECH | Flutter Tech Lead
+- [ ] https://jobs.ashbyhq.com/thorit/90912a3c-5ef2-4d92-9825-a4de22ea6f6e | Thorit | Senior Flutter Developer (all genders)
+- [ ] https://jobs.ashbyhq.com/aphex/d80bdd22-fd23-4c69-96b6-b9a0273049b1 | Aphex | Flutter Developer
+- [ ] https://jobs.ashbyhq.com/aphex/b97a21da-1f65-4884-93ee-8e9b5d863745 | Aphex | Senior Flutter Developer
+- [ ] https://jobs.lever.co/jobgether/0fe0cb55-cc05-4ffc-bccc-1771cd222c24 | Jobgether | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/gohighlevel/04cbd875-8762-4b43-81b5-64e55dacc448 | HighLevel | Software Development Engineer III (Mobile - Flutter)
+- [ ] https://jobs.lever.co/zartis/b4d50800-e1cb-4241-bedb-e53d758cd53c | Zartis | Senior Software Engineer (Frontend focused)
+- [ ] https://apply.workable.com/azumo/j/6F3D3D331D | Azumo | Flutter / Dart Engineer - Latin America - Remote
+- [ ] https://apply.workable.com/envisiones/j/4113BA49A5 | Envision Employment Solutions | Senior Mobile Developer (Flutter)
+- [ ] https://apply.workable.com/tawantech/j/E4F7EC89FB/ | TAWANTECH | Senior Flutter Developer offshore
+- [ ] https://apply.workable.com/cos/j/F6B218F2C3 | ConnectOS | Mobile App Developer - Flutter & Dart
+- [ ] https://job-boards.greenhouse.io/springhealth66/jobs/4727968005 | Spring Health | Staff Software Engineer I, Mobile
+- [ ] https://job-boards.greenhouse.io/mojorank/jobs/5590566003 | MojoRank | Flutter dev
+- [ ] https://jobs.ashbyhq.com/navigate-ai/2c9dd37e-10ec-4acc-9994-f4e96017a37f | Navigate AI | Mobile Engineer
+- [ ] https://jobs.ashbyhq.com/truelogic/75455486-d39e-40b8-a675-1879ae0d242a | Truelogic | Mobile Engineer - Open Application
+- [ ] https://jobs.ashbyhq.com/truelogic/563e1073-309c-409f-96d9-de7a2df88893 | Truelogic | Senior/Mid-Level Mobile Engineer (React Native) - E-Commerce (LATAM)
+- [ ] https://jobs.ashbyhq.com/oneapp/c9a111a5-1ec3-45b8-81ff-9b9da3a27f8e | OnePay | React Native Mobile Engineer, Banking
+- [ ] https://jobs.ashbyhq.com/tilthq/137661ca-a976-4139-b6f1-38349ed808be | Tilt Finance | Senior Mobile Engineer, Thrive
+- [ ] https://jobs.techstars.com/companies/vanhack/jobs/60897371-senior-mobile-application-developer-flutter-dart | VanHack | Senior Mobile Application Developer Flutter Dart
+- [ ] https://jobs.lever.co/paytm/48c82d31-7ff2-4801-96e5-3969403ce471 | Paytm | Software Engineer-Flutter Developer - Paytm Money
+- [ ] https://www.progigfinder.com/jobs/senior-mobile-developer-flutter-at-cowrywise-1083b7e3-a9b0-4168-a7a0-5fdb5f61b0e5 | Cowrywise | Senior Mobile Developer - Flutter
+- [ ] https://bebee.com/ng/jobs/flutter-mobile-developer-ics-outsourcing-nigeria-limited-lagos-lagos-state--t7xk-778743179 | ICS Outsourcing Nigeria Limited | Flutter Mobile Developer
