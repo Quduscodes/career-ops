@@ -82,3 +82,30 @@
 - [ ] https://jobs.lever.co/paytm/48c82d31-7ff2-4801-96e5-3969403ce471 | Paytm | Software Engineer-Flutter Developer - Paytm Money
 - [ ] https://www.progigfinder.com/jobs/senior-mobile-developer-flutter-at-cowrywise-1083b7e3-a9b0-4168-a7a0-5fdb5f61b0e5 | Cowrywise | Senior Mobile Developer - Flutter
 - [ ] https://bebee.com/ng/jobs/flutter-mobile-developer-ics-outsourcing-nigeria-limited-lagos-lagos-state--t7xk-778743179 | ICS Outsourcing Nigeria Limited | Flutter Mobile Developer
+- [ ] https://job-boards.greenhouse.io/hs/jobs/6564400 | Headspace | Senior Software Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4723986101 | Valtech | Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4572094006 | Very Good Ventures | Senior Flutter Engineer (US)
+- [ ] https://job-boards.greenhouse.io/expressvpn/jobs/8507836002 | ExpressVPN | Senior/Staff Flutter Engineer (Identity Defender)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5208357007 | Anduril Industries | Senior Software Engineer (Android Apps - Flutter/Dart)
+- [ ] https://job-boards.greenhouse.io/bloomreach/jobs/7142435 | Bloomreach | Senior Software Engineer Mobile SDK (Flutter/React Native)
+- [ ] https://job-boards.eu.greenhouse.io/moniepoint/jobs/4945861101 | Moniepoint | Mobile Engineer (Flutter)
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4615079006 | Very Good Ventures | Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4609662006 | Very Good Ventures | Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4609642006 | Very Good Ventures | Flutter Engineer
+- [ ] https://jobs.ashbyhq.com/rnrs.solutions/832bfe49-a478-437e-9d98-06175f30e727 | RNRS Solutions | Senior Flutter Developer (R&D)
+- [ ] https://jobs.ashbyhq.com/knowunity/58c57dff-328d-4628-b213-a4fee0f77dbe | Knowunity | Flutter Engineer
+- [ ] https://jobs.ashbyhq.com/Aphex/852fc193-ce73-41ee-86f7-c9621e9a2a15 | Aphex | Flutter Developer
+- [ ] https://jobs.lever.co/jobgether/1f76bcb4-748d-454a-b995-a434bb1f1dc4 | Jobgether | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/jobgether/563b29ca-31e4-4485-b9b2-46a17efb13b5 | Jobgether | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/jobgether/2cb61de6-e8c8-4fb0-85e1-45aae07ee31b | Jobgether | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/unlimit/382a9d8b-2b2a-48cf-ba1d-dd8fe595c51a | Unlimit | Agentic Systems Engineer (Flutter)
+- [ ] https://jobs.lever.co/jobgether/a3449ab9-7228-4f8a-bb92-1a97f541e856 | Jobgether | Senior Mobile Developer (Flutter)
+- [ ] https://jobs.lever.co/jobgether/8a0639d8-2ad0-487b-9de5-3f64222c3a4d | Jobgether | Flutter Mobile Developer Pleno
+- [ ] https://jobs.lever.co/happyco/daf2b693-7574-4264-87a9-17e57fc72bc8 | HappyCo | Senior Mobile Engineer (Flutter)
+- [ ] https://apply.workable.com/innovationteam/j/7FDFD79889/ | InnovationTeam | Flutter Mobile Developer
+- [ ] https://apply.workable.com/khayira-holding-company-1/j/C280227DEB | Khayira Holding Company | Senior Mobile Developer
+- [ ] https://apply.workable.com/bolderapps/j/A82CAD08AC | Bolder Apps | Mobile App Developer (Flutter / React Native)
+- [ ] https://apply.workable.com/petroapp/j/45C65A6595 | PetroApp | Senior Mobile Developer Flutter and iOS
+- [ ] https://apply.workable.com/the-chefz-1/j/BA8451D689 | The Chefz | Flutter Engineer
+- [ ] https://jobberman.com/listings/flutter-developer-45dkne | Lifted Africa | Flutter Developer
+- [ ] https://jobberman.com/listings/senior-flutter-software-engineers-remote-contract-ev7ze4 | iRecruiters Africa | Senior Flutter Software Engineers
