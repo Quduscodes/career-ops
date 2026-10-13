@@ -109,3 +109,12 @@
 - [ ] https://apply.workable.com/the-chefz-1/j/BA8451D689 | The Chefz | Flutter Engineer
 - [ ] https://jobberman.com/listings/flutter-developer-45dkne | Lifted Africa | Flutter Developer
 - [ ] https://jobberman.com/listings/senior-flutter-software-engineers-remote-contract-ev7ze4 | iRecruiters Africa | Senior Flutter Software Engineers
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7280772 | Headspace | Senior Software Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/yubico/jobs/4390628009 | Yubico | Software Engineer (Cross-Platform Applications)
+- [ ] https://socialdiscoverygroup.com/vacancies/job/b1ea2a7cdb4d01-senior-mobile-engineer-flutter | Social Discovery Group | Senior Mobile Engineer (Flutter)
+- [ ] https://jobberman.com/listings/senior-flutter-developer-pm45m2 | Unknown | Senior Flutter Developer
+- [ ] https://jobberman.com/listings/mobile-software-engineer-6dr65p | Unknown | Mobile Software Engineer
+- [ ] https://apply.workable.com/smartlogic/j/D6493D0A7B | SmartLogic | Staff Engineer/Senior Developer (Elixir, Ruby, Flutter)
+- [ ] https://apply.workable.com/smartlogic/j/3CD4131CBF | SmartLogic | Staff Engineer/Senior Developer CONTRACT (Elixir, Ruby, Flutter)
+- [ ] https://lumenalta.com/jobs/android-engineer-flutter-engineer-81 | Lumenalta | Android Engineer / Flutter Engineer
+- [ ] https://www.hotnigerianjobs.com/print/932951/ | Murphy Ben International | Software Engineer - Mobile (Flutter)
