@@ -118,3 +118,8 @@
 - [ ] https://apply.workable.com/smartlogic/j/3CD4131CBF | SmartLogic | Staff Engineer/Senior Developer CONTRACT (Elixir, Ruby, Flutter)
 - [ ] https://lumenalta.com/jobs/android-engineer-flutter-engineer-81 | Lumenalta | Android Engineer / Flutter Engineer
 - [ ] https://www.hotnigerianjobs.com/print/932951/ | Murphy Ben International | Software Engineer - Mobile (Flutter)
+- [ ] https://career.habr.com/vacancies/1000085853 | Unknown | Flutter Mobile Engineer - Remote
+- [ ] https://jobs.revolution.com/companies/off-the-record/jobs/78573994-senior-software-mobile-app-engineer-flutter | Off The Record | Senior Software Mobile App Engineer - Flutter
+- [ ] https://jobberman.com/listings/flutter-developer-mid-senior-level-2krz0e | ADTM Tech | Flutter Developer (Mid-Senior Level)
+- [ ] https://careers.epam.com/en/vacancy/senior-flutter-engineer-blt87ede0181b791fe7 | EPAM | Senior Flutter Engineer
+- [ ] https://somniosoftware.recruitee.com/o/flutter-developer-sr | Somnio Software | Flutter Developer Sr
