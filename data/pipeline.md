@@ -123,3 +123,21 @@
 - [ ] https://jobberman.com/listings/flutter-developer-mid-senior-level-2krz0e | ADTM Tech | Flutter Developer (Mid-Senior Level)
 - [ ] https://careers.epam.com/en/vacancy/senior-flutter-engineer-blt87ede0181b791fe7 | EPAM | Senior Flutter Engineer
 - [ ] https://somniosoftware.recruitee.com/o/flutter-developer-sr | Somnio Software | Flutter Developer Sr
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4591018006 | Very Good Ventures | Flutter Engineer, Mid Level (LatAm)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5150422 | Canonical | Web Frontend Engineer - JS, CSS, React, Flutter
+- [ ] https://job-boards.greenhouse.io/workstream/jobs/5467038004 | Workstream | Senior Flutter Engineer
+- [ ] https://job-boards.eu.greenhouse.io/moniepoint/jobs/4791320101 | Moniepoint | Senior Mobile Engineer
+- [ ] https://job-boards.eu.greenhouse.io/moniepoint/jobs/4791661101 | Moniepoint | Senior POS Mobile Engineer
+- [ ] https://job-boards.eu.greenhouse.io/lionhires/jobs/4838085101 | LionHires | Lead Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/spotify/5089cbe3-5e62-4c24-89a2-9a1487eb5034 | Spotify | iOS Engineer I - Subscriptions
+- [ ] https://jobs.lever.co/spotify/b4ad9572-e20f-4185-a284-99d9740d04f0 | Spotify | Android Engineer - Subscriptions
+- [ ] https://jobs.lever.co/spotify/fc1d1bf7-0cd8-4daf-9f4f-40b932998da5 | Spotify | Android/iOS Engineer - Automation and GenAI
+- [ ] https://jobs.ashbyhq.com/enpal/87daac80-94b7-4186-bf37-e89bcda604e6 | Enpal | Senior Flutter Engineer
+- [ ] https://jobs.ashbyhq.com/olly-olly/43b1ddb5-6563-47da-8fdd-ccb8520521ed | Olly Olly | Fullstack Flutter Engineer
+- [ ] https://jobs.ashbyhq.com/trading212/bfc55935-e412-4725-8e15-fdfe57522505 | Trading212 | Senior Frontend Engineer (React Native)
+- [ ] https://apply.workable.com/staff4me/j/3C5B1C1A56 | Staff4Me | Flutter Developer
+- [ ] https://apply.workable.com/workana-premium/j/F8AE7131A7 | Workana | Mobile Developer (Mid level)
+- [ ] https://apply.workable.com/toloka-ai/j/58E6C3994A | Mindrift | Freelance Mobile App Developer (iOS/Android)
+- [ ] https://apply.workable.com/toloka-ai/j/9F788163AF | Mindrift | Freelance iOS/Android Developer (Cross-Platform)
+- [ ] https://handymaninteractive.teamtailor.com/jobs/4724368-senior-flutter-mobile-app-developer | Handyman Interactive | Senior Flutter Mobile App Developer
+- [ ] https://moniepoint.com/careers/roles/4418803101 | Moniepoint | Senior Mobile Engineer (Flutter)
