@@ -141,3 +141,14 @@
 - [ ] https://apply.workable.com/toloka-ai/j/9F788163AF | Mindrift | Freelance iOS/Android Developer (Cross-Platform)
 - [ ] https://handymaninteractive.teamtailor.com/jobs/4724368-senior-flutter-mobile-app-developer | Handyman Interactive | Senior Flutter Mobile App Developer
 - [ ] https://moniepoint.com/careers/roles/4418803101 | Moniepoint | Senior Mobile Engineer (Flutter)
+- [ ] https://job-boards.greenhouse.io/capitalontap/jobs/8902820002 | Capital on Tap | Flutter Engineer - Platform
+- [ ] https://jobs.lever.co/remedyproductstudio/ab9b6bf7-09c7-4bcf-858f-ab2daa36bcc0 | Remedy Product Studio | Mobile Engineer (Flutter)
+- [ ] https://apply.workable.com/flextal-staffing-llc/j/446D9A2233/ | FlexTal Staffing LLC | Flutter Developer
+- [ ] https://apply.workable.com/questronix-corporation-2/j/02F33DA62D | Questronix Corporation | Mobile Flutter Developer
+- [ ] https://apply.workable.com/stay-group/j/06DB9D8435/ | Stay Group | Flutter Developer
+- [ ] https://jobs.ashbyhq.com/earthforce/010c76ef-ad11-4741-b81c-b57e263ef6f0 | Earth Force | Sr. Mobile Developer
+- [ ] https://jobs.ashbyhq.com/trucksmarter/9ff7cdd1-200a-40c8-b08e-e5df5af74cfe | TruckSmarter | Mobile Engineer
+- [ ] https://freehire.me/jobs/senior-mobile-engineer-react-native-flutter-ruzora-xayunkp6 | Ruzora | Senior Mobile Engineer (React Native / Flutter)
+- [ ] https://iventureteam.com/careers/mobile-engineer-react-native-flutter/ | iVenture Team | Mobile Engineer (React Native & Flutter)
+- [ ] https://www.remoteitjobs.app/job/synthires-senior-mobile-engineer-remote-50-100-hr | Synthires | Senior Mobile Engineer
+- [ ] https://wellfound.com/jobs/4696207-senior-mobile-flutter-developer | beemz | Senior Mobile Flutter Developer
