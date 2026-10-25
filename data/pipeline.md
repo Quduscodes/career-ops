@@ -152,3 +152,12 @@
 - [ ] https://iventureteam.com/careers/mobile-engineer-react-native-flutter/ | iVenture Team | Mobile Engineer (React Native & Flutter)
 - [ ] https://www.remoteitjobs.app/job/synthires-senior-mobile-engineer-remote-50-100-hr | Synthires | Senior Mobile Engineer
 - [ ] https://wellfound.com/jobs/4696207-senior-mobile-flutter-developer | beemz | Senior Mobile Flutter Developer
+- [ ] https://job-boards.greenhouse.io/hs/jobs/6564448 | Headspace | Software Engineer, Flutter
+- [ ] https://jobs.lever.co/outsourcedstaff/d72a60e6-fbed-4b07-9376-f241681a081d | Outsourced Staff | Senior Flutter Developer
+- [ ] https://jobs.lever.co/scale3c/fe8ff793-1235-49cd-9a9e-0f0d2d848b85 | ScaleTech | Flutter Developer
+- [ ] https://apply.workable.com/owt-swiss/j/7D10981184 | OWT | Flutter Developer (Middle/Senior)
+- [ ] https://apply.workable.com/monterail/j/D0A00EE854 | Monterail | Senior Flutter Developer - Freelancer
+- [ ] https://apply.workable.com/lawazem/j/AD04835092 | LAWAZEM | Flutter Senior Developer
+- [ ] https://apply.workable.com/cos/j/4AD79FFD9F | ConnectOS | Senior Flutter Developer (AU IT, WFH)
+- [ ] https://career.habr.com/vacancies/1000103006 | Finblox | Senior Flutter Developer
+- [ ] https://career.habr.com/vacancies/1000099229 | Unknown | Mobile Software Engineer
