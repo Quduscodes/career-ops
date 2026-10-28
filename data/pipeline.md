@@ -161,3 +161,16 @@
 - [ ] https://apply.workable.com/cos/j/4AD79FFD9F | ConnectOS | Senior Flutter Developer (AU IT, WFH)
 - [ ] https://career.habr.com/vacancies/1000103006 | Finblox | Senior Flutter Developer
 - [ ] https://career.habr.com/vacancies/1000099229 | Unknown | Mobile Software Engineer
+- [ ] https://wellfound.com/jobs/3154299-founding-senior-flutter-engineer | JoyoLabs | Founding Senior Flutter Engineer
+- [ ] https://apply.workable.com/netguru/j/34AEBB8848 | Netguru | Senior Flutter Developer - Freelancer
+- [ ] https://builtin.com/job/mobile-engineer-react-native-flutter/8216892 | Unknown | Mobile Engineer (React Native / Flutter)
+- [ ] https://jobgether.com/offer/6a3e63002da8cde35c7563a9-senior-react-flutter-engineer-100-remote | Fluxweave | Senior React Flutter Engineer (100% Remote)
+- [ ] https://jobgether.com/offer/6882377d8e7d46720232b55b-vcl-senior-mobile-developer-flutter | VCL | Senior Mobile Developer (Flutter)
+- [ ] https://jobgether.com/offer/6a0d9b64cc7b7267698f63d7-flutter-lead | Idego Group | Flutter Lead
+- [ ] https://djinni.co/jobs/791734-senior-flutter-android-mobile-engineer | Unknown | Senior Flutter/Android Mobile Engineer
+- [ ] https://djinni.co/jobs/791736-senior-flutter-android-mobile-engineer | Unknown | Senior Flutter/Android Mobile Engineer
+- [ ] https://jobbernaija.com/job/flutter-mobile-developer-at-ivorypay-flutter-mobile-developer-jobs-in-lagos | Ivorypay | Flutter Mobile Developer
+- [ ] https://africarrieres.com/index.php/nigeria/en/jobs/mobile-engineer-flutter-ib-cib-platforms-hybrid-at-stretchit-concept-limited | Stretchit Concept Limited | Mobile Engineer (Flutter) - IB & CIB Platforms
+- [ ] https://anywhere.epam.com/en/vacancy/senior-flutter-developer-blt119b21eea28efff3 | EPAM | Senior Flutter Developer
+- [ ] https://remotefirstjobs.com/companies/lodgify/jobs/senior-flutter-engineer-793417 | Lodgify | Senior Flutter Engineer
+- [ ] https://jobgether.com/offer/683ec11a73da501d6d7ae84c-senior-flutter-engineer | Unknown | Senior Flutter Engineer
