@@ -174,3 +174,17 @@
 - [ ] https://anywhere.epam.com/en/vacancy/senior-flutter-developer-blt119b21eea28efff3 | EPAM | Senior Flutter Developer
 - [ ] https://remotefirstjobs.com/companies/lodgify/jobs/senior-flutter-engineer-793417 | Lodgify | Senior Flutter Engineer
 - [ ] https://jobgether.com/offer/683ec11a73da501d6d7ae84c-senior-flutter-engineer | Unknown | Senior Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/droidsonroids/jobs/4999799101 | Droids On Roids | Full-stack Software Engineer (Flutter + Node.js)
+- [ ] https://jobs.ashbyhq.com/plane/4fcbc554-e00b-4964-9af6-db0f59964634 | Plane Software | Software Engineer, Mobile (Flutter)
+- [ ] https://jobs.lever.co/futo-org/f5b9b595-a3f6-4151-96db-0b88fb511d6d | FUTO | Mobile Developer - Immich
+- [ ] https://jobs.lever.co/jobgether/32a0f7b4-b346-4923-b32d-bfaef12373bc | Jobgether | Lead Mobile Engineer
+- [ ] https://apply.workable.com/t63/j/9B1760761F/ | Unknown | Senior Flutter Developer
+- [ ] https://careers.4dxventures.com/companies/mamo/jobs/91922781-senior-flutter-developer | Mamo | Senior Flutter Developer
+- [ ] https://www.scrumlaunch.com/careers/senior-flutter-developer-latam-380 | Scrumlaunch | Senior Flutter Developer (Remote, LatAm)
+- [ ] https://wellfound.com/jobs/3162327-founding-mobile-software-engineer-flutter-frontend-focus | Prana | Founding Mobile Software Engineer (Flutter, Frontend-focus)
+- [ ] https://remotefirstjobs.com/companies/accesa-eu/jobs/senior-mobile-engineer-with-flutter-796214 | Accesa EU | Senior Mobile Engineer with Flutter
+- [ ] https://www.itjobboard.co.uk/job/16457199/senior-mobile-engineer-flutter-product-driven-remote | Unknown | Senior Mobile Engineer (Flutter) - Product Driven, Remote
+- [ ] https://www.itjobboard.co.uk/job/16828077/senior-remote-flutter-mobile-developer/ | Unknown | Senior Remote Flutter Mobile Developer
+- [ ] https://dynamic.jobgether.com/offer/6746d2cdad55c72fab59e5e0-flutter-mobile-engineer | Unknown | Flutter Mobile Engineer
+- [ ] https://dynamic.jobgether.com/offer/6788a86f4cca3e84535aea61-mobile-engineer-flutter | Unknown | Mobile Engineer (Flutter)
+- [ ] https://jobgether.com/offer/6969cd1996ae97ba4ad57ac4-mobile-engineer-react-native-flutter | Remedy Product Studio | Mobile Engineer (React Native / Flutter)
