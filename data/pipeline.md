@@ -188,3 +188,14 @@
 - [ ] https://dynamic.jobgether.com/offer/6746d2cdad55c72fab59e5e0-flutter-mobile-engineer | Unknown | Flutter Mobile Engineer
 - [ ] https://dynamic.jobgether.com/offer/6788a86f4cca3e84535aea61-mobile-engineer-flutter | Unknown | Mobile Engineer (Flutter)
 - [ ] https://jobgether.com/offer/6969cd1996ae97ba4ad57ac4-mobile-engineer-react-native-flutter | Remedy Product Studio | Mobile Engineer (React Native / Flutter)
+- [ ] https://jobgether.com/offer/69b42dba24d79271ee061f2d-sdk-engineer---flutter | Supabase | SDK Engineer - Flutter
+- [ ] https://anywhere.epam.com/en/vacancy/lead-flutter-developer-blt4fe44a9679be4e56 | EPAM | Lead Flutter Developer
+- [ ] https://apply.workable.com/stackbuilders/j/C67C8D8F92 | Stack Builders | Experienced Flutter Developer (Contractor, Remote)
+- [ ] https://www.wearedevelopers.com/en/jobs/ext/6093084/senior-mobile-app-developer-react-native-flutter-kotlin | Unknown | Senior Mobile App Developer (React Native / Flutter / Kotlin)
+- [ ] https://dailyremote.com/remote-job/senior-core-flutter-engineer-bump-automation-mobile-dev-ex-4980449 | Unknown | Senior Core Flutter Engineer (Bump Automation / Mobile DevEx)
+- [ ] https://dailyremote.com/remote-job/senior-core-flutter-engineer-ai-tooling-harness-4980451 | Unknown | Senior Core Flutter Engineer (AI Tooling / Harness)
+- [ ] https://remotejobs.org/remote-jobs/senior-flutter-developer-nile-bits | Nile Bits | Senior Flutter Developer
+- [ ] https://www.jobera.com/job/capitalsage-flutter-mobile-engineer-mid-level-senior-4a8d0964/ | CapitalSage | Flutter Mobile Engineer (Mid-Level/Senior)
+- [ ] https://www.jobzilla.ng/jobs/flutter-dart-mobile-developer-remote-at-expedier-266610 | Expedier | Flutter / Dart Mobile Developer (Remote)
+- [ ] https://ng.karier.co/job/android-flutter-developer-at-mint-digital-bank-2aba0144 | Mint Digital Bank | Android Flutter Developer
+- [ ] https://arc.dev/remote-jobs/j/wisecode-head-of-mobile-engineering-ngqf56a5f4 | WISEcode | Head of Mobile Engineering
