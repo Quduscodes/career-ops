@@ -199,3 +199,18 @@
 - [ ] https://www.jobzilla.ng/jobs/flutter-dart-mobile-developer-remote-at-expedier-266610 | Expedier | Flutter / Dart Mobile Developer (Remote)
 - [ ] https://ng.karier.co/job/android-flutter-developer-at-mint-digital-bank-2aba0144 | Mint Digital Bank | Android Flutter Developer
 - [ ] https://arc.dev/remote-jobs/j/wisecode-head-of-mobile-engineering-ngqf56a5f4 | WISEcode | Head of Mobile Engineering
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5455435008 | Cresta | Senior Mobile Software Engineer - Android & iOS
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4572103006 | Very Good Ventures | Flutter Engineer, Mid Level (US)
+- [ ] https://job-boards.greenhouse.io/fueledcareers/jobs/4990596008 | Fueled | Lead Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/moniepoint/jobs/5009084101 | Moniepoint | Principal Mobile Engineer (POS Terminal)
+- [ ] https://jobs.ashbyhq.com/Reaktor/7bebee84-fdbd-464d-80f3-c0f598d7a86c | Reaktor | Mobile Developer
+- [ ] https://jobs.ashbyhq.com/weave/98c78234-8904-4aa5-9197-b48397688a22 | Weave | Senior Software Mobile Engineer
+- [ ] https://jobs.ashbyhq.com/weave/f3cf7c49-b575-43b4-90c3-274dd47a490e | Weave | Software Mobile Engineer
+- [ ] https://jobs.ashbyhq.com/Plaud/284468e5-ef86-4c8a-b458-2ba68bff17d2 | Plaud | Mobile Engineer (Contractor)
+- [ ] https://jobs.lever.co/idt/027b0693-41d8-4262-a0de-26fd2b186d28 | IDT | Senior Flutter Software Engineer
+- [ ] https://jobs.lever.co/zocks/4dea8576-f17f-4e38-bca6-430e8cc9565b | Zocks | Senior Mobile Developer (Flutter)
+- [ ] https://jobs.lever.co/life/89a99913-34d7-4f4b-868d-a39252e6e938 | Life.Church | Senior Mobile Engineer
+- [ ] https://jobs.lever.co/afero/ade6ac1b-b574-48b6-a771-77f242825f7a | Afero | Senior Software Engineer — Mobile (Flutter / KMP)
+- [ ] https://jobs.lever.co/binance/4cba8c12-a297-4036-84db-aef836169a36 | Binance | Flutter Engineer (iOS/Android)
+- [ ] https://jobs.lever.co/jobgether/0d414baa-c945-44fc-b645-d37d3878a2fc | Jobgether | App Developer - FlutterFlow AI
+- [ ] https://freehire.me/jobs/senior-full-stack-mobile-developer-flutter-react-digital-unicorn-baff6k7v | Digital Unicorn | Senior Full-stack Mobile Developer (Flutter, React)
