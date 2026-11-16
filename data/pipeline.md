@@ -214,3 +214,27 @@
 - [ ] https://jobs.lever.co/binance/4cba8c12-a297-4036-84db-aef836169a36 | Binance | Flutter Engineer (iOS/Android)
 - [ ] https://jobs.lever.co/jobgether/0d414baa-c945-44fc-b645-d37d3878a2fc | Jobgether | App Developer - FlutterFlow AI
 - [ ] https://freehire.me/jobs/senior-full-stack-mobile-developer-flutter-react-digital-unicorn-baff6k7v | Digital Unicorn | Senior Full-stack Mobile Developer (Flutter, React)
+- [ ] https://job-boards.greenhouse.io/degreed/jobs/5623000004 | Degreed | Senior Flutter Developer
+- [ ] https://job-boards.greenhouse.io/humaninterest/jobs/8319689 | Human Interest | Senior Software Engineer, Mobile
+- [ ] https://job-boards.greenhouse.io/via/jobs/8585308002 | Via | Senior Mobile Cross-Platform Engineer
+- [ ] https://job-boards.greenhouse.io/goodinside/jobs/5048986007 | Good Inside | Senior Mobile Platform Engineer
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4643124101 | Valtech | Lead Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6259844004 | Grafana Labs | Staff Mobile Engineer, Session Replay
+- [ ] https://job-boards.greenhouse.io/ninjatrader/jobs/4671132006 | NinjaTrader | Sr. Software Engineer II, Mobile
+- [ ] https://job-boards.greenhouse.io/rockstargames/jobs/6534792003 | Rockstar Games | Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7618791003 | Sezzle | Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5363261008 | Robots and Pencils | Staff Mobile Developer
+- [ ] https://job-boards.greenhouse.io/tide/jobs/8197416003 | Tide | Staff Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/vannevarlabs/jobs/4539946007 | Vannevar Labs | Senior Mobile Engineer
+- [ ] https://jobs.ashbyhq.com/everis/d4e0e96c-1882-4852-8f2b-76c66a64f3df | Everis | Mobile Software Engineer, Growth & Experimentation
+- [ ] https://jobs.ashbyhq.com/moonshot/a4e0bc6f-bc30-46cf-928a-f3ccec35a405 | Moonshot | Senior Mobile Engineer (Consumer App)
+- [ ] https://jobs.ashbyhq.com/level/9219da4f-692c-44da-ade9-54a2812c2c15 | Level | Senior Full-Stack Mobile Engineer
+- [ ] https://jobs.ashbyhq.com/yazio/e73a1b14-08a5-4691-8def-29d2480a0635 | Yazio | Senior Mobile Engineer (KMP)
+- [ ] https://jobs.lever.co/jobgether/19b1d622-77d8-4b3b-8b19-919836a075f1 | Jobgether | Software Craftsperson/Flutter/React
+- [ ] https://jobs.lever.co/jobgether/704c8e3b-86b8-46ea-bde5-7bc3251ac224 | Jobgether | Software Craftsperson/Flutter/React
+- [ ] https://jobs.lever.co/jobgether/b018d6f8-1e8f-4153-9048-a3de25c5b003 | Jobgether | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/momenti-inc/7811a3d2-9fc6-4889-8410-f4a509c04659 | Momenti | Sr. Software Engineer / Technical Lead
+- [ ] https://jobs.lever.co/life/b8c732d6-f261-4152-b434-e40f32d57351 | Life.Church | Senior Staff Software Engineer
+- [ ] https://apply.workable.com/innovationteam/j/C84B1E6F6F/ | InnovationTeam | Flutter Mobile Developer
+- [ ] https://freehire.me/jobs/senior-mobile-developer-flutter-react-native-ios-android-beninja-solutions-j2bacqb6 | Beninja Solutions | Senior Mobile Developer (Flutter/React Native)
+- [ ] https://himalayas.app/companies/coorb/jobs/senior-mobile-developer-flutter | CoorB | Senior Mobile Developer (Flutter)
