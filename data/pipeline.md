@@ -252,3 +252,40 @@
 - [ ] https://jobgether.com/offer/6a6bde8d1b23f4f87b495dca-flutter-mobile-developer-senior-remoto | Unknown | Flutter Mobile Developer Sênior
 - [ ] https://jobgether.com/offer/6a3ed36f2da8cde35c76bd06-flutter-developer_deepanshi_techfour | CodersBrain | Flutter Developer
 - [ ] https://jobgether.com/offer/6976616673a8e8b5e77aa56e-mobile-engineer-flutter | PradeepIT | Mobile Engineer (Flutter)
+- [ ] https://job-boards.greenhouse.io/navtechnologies/jobs/5692790004 | Nav | Staff Mobile (Flutter) Engineer
+- [ ] https://job-boards.greenhouse.io/expressvpn/jobs/8419981002 | ExpressVPN | Senior/Staff Flutter Engineer (Password Manager)
+- [ ] https://job-boards.greenhouse.io/expressvpn/jobs/8461771002 | ExpressVPN | Senior/Staff Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4587779006 | Ditto | Staff Software Engineer, Flutter SDK
+- [ ] https://job-boards.greenhouse.io/invertase/jobs/4580103101 | Invertase | Senior Product Engineer (Dart & Flutter)
+- [ ] https://job-boards.greenhouse.io/cookunity/jobs/6620987003 | CookUnity | Senior Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/teampathy/jobs/4826403008 | Teampathy | Flutter Mobile Developer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4615152006 | Very Good Ventures | Senior Flutter Engineer (US)
+- [ ] https://job-boards.greenhouse.io/thedutchie/jobs/8427622002 | Dutchie | Senior Software Engineer, Mobile
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5724760004 | Grafana Labs | Staff Mobile Engineer (SDK)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5724759004 | Grafana Labs | Senior Mobile Engineer (SDK)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5800234004 | Grafana Labs | Staff Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/inthepocket/jobs/2565639 | In The Pocket | Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4436121006 | Very Good Ventures | Senior Engineer (US)
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4610791006 | Very Good Ventures | Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4619460006 | Very Good Ventures | Flutter Engineer
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4665271006 | Very Good Ventures | Flutter Engineer
+- [ ] https://wellfound.com/jobs/3531451-flutter-developer | Les Amis | Flutter Developer
+- [ ] https://wellfound.com/jobs/3427821-senior-flutter-engineer | Jumpspeak | Senior Flutter Engineer
+- [ ] https://djinni.co/jobs/798768-senior-secure-mobile-engineer-flutter | Unknown | Senior Secure Mobile Engineer (Flutter)
+- [ ] https://djinni.co/jobs/849663-full-stack-mobile-developer-cross-platform-na/ | Unknown | Full Stack Mobile Developer (Cross-Platform)
+- [ ] https://djinni.co/jobs/839713-senior-flutter-engineer-mobile-engineer/ | Unknown | Senior Flutter Engineer / Mobile Engineer
+- [ ] https://djinni.co/jobs/835772-senior-flutter-developer/ | Unknown | Senior Flutter Developer
+- [ ] https://djinni.co/jobs/801612-flutter-developer-senior | Unknown | Flutter Developer (Senior)
+- [ ] https://djinni.co/jobs/801611-flutter-developer-middle | Unknown | Flutter Developer (Middle)
+- [ ] https://djinni.co/jobs/784417-frontend-mobile-engineer-flutter | Unknown | Frontend Mobile Engineer (Flutter)
+- [ ] https://www.jobberman.com/listings/senior-flutter-developer-rrnkvn | Intellyjent | Senior Flutter Developer
+- [ ] https://jobberman.com/listings/senior-flutter-developer-at-lingawa-vwrkjm | Lingawa | Senior Flutter Developer
+- [ ] https://jobberman.com/listings/mobile-app-developer-flutter-react-native-gmmgg9 | SMARTROB Technologies | Mobile App Developer (Flutter/React Native)
+- [ ] https://moniepoint.com/careers/roles/4571877101 | Moniepoint | Senior Mobile Engineer
+- [ ] https://moniepoint.com/careers/roles/4001845101 | Moniepoint | Mobile Engineer
+- [ ] https://moniepoint.com/careers/roles/4553943101 | Moniepoint | Mobile Engineer
+- [ ] https://jobs.techstars.com/companies/kredete-2/jobs/86918015-senior-mobile-engineer-flutter | Kredete | Senior Mobile Engineer - Flutter
+- [ ] https://jobgether.com/offer/6a5d17ce1b23f4f87b281104-mobile-engineer-flutter | Remedy Product Studio | Mobile Engineer (Flutter)
+- [ ] https://careers.holafly.com/jobs/7734062-senior-flutter-developer | Holafly | Senior Flutter Developer
+- [ ] https://apply.workable.com/foodics/j/C479F570CF | Foodics | Senior Flutter Developer
+- [ ] https://bamboo.teamtailor.com/jobs/8091612-mobile-engineer | Bamboo | Mobile Engineer (Flutter)
